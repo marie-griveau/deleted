@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+@import url("https://fonts.googleapis.com/css?family=Italiana");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Raleway', serif;
+	font-size: 18px;
+}
+
+h1, h2, h3{  
+	font-family: 'Italiana';
+}
+
+a {
+	text-decoration: none;
+}
+
+a:visited {
+	color: #a8586c;
+}
+
+a:link {
+	color: #d14f70;
+}
+a:hover {
+	color: #ad619f;
+}
